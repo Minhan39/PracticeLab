@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "317680663026",
+    "project_id": "praticelab-27bd0",
+    "storage_bucket": "praticelab-27bd0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317680663026:android:22c04d1d8a3aa39bf8536b",
+        "android_client_info": {
+          "package_name": "com.practivelab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "317680663026-kpk0riggblc28v1u8jkntc7iq031v941.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.practivelab",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "317680663026-1j0sc9a33lst4ponqv8h3g1jm7pd9onk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxH0O8oE7EVAahhOH6Q3XGBqfDsV7wmJs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "317680663026-1j0sc9a33lst4ponqv8h3g1jm7pd9onk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

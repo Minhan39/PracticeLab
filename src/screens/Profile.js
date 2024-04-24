@@ -111,6 +111,26 @@ const Profile = ({navigation, route}) => {
             </Text>
           </View>
         </View>
+        <View
+          style={{
+            flexDirection: 'row',
+            alignItems: 'center',
+            paddingVertical: 8,
+          }}>
+          <Icon source="message-processing" size={20} />
+          <View style={{paddingLeft: 16}}>
+            <Text
+              variant="titleMedium"
+              style={{...styles.text, fontWeight: 'bold'}}>
+              Message
+            </Text>
+            <Text
+              variant="bodyMedium"
+              style={{...styles.text, color: theme.colors.primary}}>
+              Chat with {item.firstname}
+            </Text>
+          </View>
+        </View>
       </View>
     </View>
   );

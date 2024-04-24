@@ -6,9 +6,10 @@ import Favorites from './src/screens/Favorites';
 import User from './src/screens/User';
 import Options from './src/screens/Options';
 import BottomTabs from './src/navigations/BottomTabs';
+import Root from './src/navigations/Root';
 
 const App = () => {
-  return <BottomTabs />;
+  return <Root />;
 };
 
 export default App;
